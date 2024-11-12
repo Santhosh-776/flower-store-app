@@ -12,8 +12,15 @@
       background-color: white;
       padding: 20px 60px;
       border-radius: 10px;
+      align-items: center;
       display: flex;
       flex-direction: column;
+      gap: 10px;
+      .logo{
+        color:#5d5b8d;
+        font-weight: bold;
+        font-style: 24px;
+      }
       form{
         display: flex;
         flex-direction: column;
